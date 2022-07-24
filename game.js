@@ -58,3 +58,5 @@ function points_counter() {
 function stop_it() {
 window.stop();
 }
+
+// Think how RWD Sholud look like
